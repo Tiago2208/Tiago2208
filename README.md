@@ -12,3 +12,5 @@ I'm Tiago, a 20 years old web developer from Brazil.
 
 ## Contact
 - [Tiago Andrade](www.linkedin.com/in/tiagoandrade2208) on Linkedin
+
+![Snake animation](https://github.com/Tiago2208/Tiago2208/blob/output/github-contribution-grid-snake.svg)
