@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hey! 👋
+I'm Tiago, a 20 years old web developer from Brazil.
 
-<!--
-**Tiago2208/Tiago2208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 Working at [Digix](digix.com.br)
 
-Here are some ideas to get you started:
+## Skills
+- 👨‍💻 JavaScript, Java, Spring Boot, Node Js, Python, Django, API
+- ⚙️ React, Vue
+- 👁️ HTML, CSS
+- 💽 MySQL, SQL, PostgresSQL, SQLServer
++ a lot more :D
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- [Tiago Andrade](www.linkedin.com/in/tiagoandrade2208) on Linkedin
